@@ -1,4 +1,3 @@
-#《You should ignore the id for tul task》
 import argparse
 import datetime
 import numpy as np
